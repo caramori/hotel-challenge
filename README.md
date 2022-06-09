@@ -15,7 +15,7 @@ The network is composed by three hotels:
 
 **Bridgewood** (4 stars): for 'reward' clients charges R$110 during weekdays and R$50 during weekends. Regular clients are charged R$160 during weekdays and R$60 on weekends;
 
-**Ridgewood** (4 stars): for 'reward' clients charges R$100 during weekdays and R$40 during weekends. Regular clients are charged R$220 during weekdays and R$150 on weekends; 
+**Ridgewood** (5 stars): for 'reward' clients charges R$100 during weekdays and R$40 during weekends. Regular clients are charged R$220 during weekdays and R$150 on weekends; 
 
 Price table result:
 |            |           | **Regular**  |              | **Rewards**  |              |
