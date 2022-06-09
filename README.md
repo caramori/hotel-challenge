@@ -9,9 +9,11 @@ It was used mostly to analyse how I dealt with pair programming with a junior de
 
 A hotel network in miami wishes to offer a reservation service on the internet.
 The network is composed by three hotels:
-Lakewood (3 stars): for 'reward' clients charges R$80 for weekdays and R$80 during weekends. Regular clients are charged R$110 during weekdays and R$90 on weekends; 
-Bridgewood (4 stars): for 'reward' clients charges R$110 during weekdays and R$50 during weekends. Regular clients are charged R$160 during weekdays and R$60 on weekends; 
-Ridgewood (4 stars): for 'reward' clients charges R$100 during weekdays and R$40 during weekends. Regular clients are charged R$220 during weekdays and R$150 on weekends; 
+**Lakewood** (3 stars): for 'reward' clients charges R$80 for weekdays and R$80 during weekends. Regular clients are charged R$110 during weekdays and R$90 on weekends;
+<br>
+**Bridgewood** (4 stars): for 'reward' clients charges R$110 during weekdays and R$50 during weekends. Regular clients are charged R$160 during weekdays and R$60 on weekends;
+<br>
+**Ridgewood** (4 stars): for 'reward' clients charges R$100 during weekdays and R$40 during weekends. Regular clients are charged R$220 during weekdays and R$150 on weekends; 
 
 Price table result:
 |            |           | **Regular**  |              | **Rewards**  |              |
